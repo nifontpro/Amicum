@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amicum Mobile</string>
+
+    <string name="sErrorNotInternet">Нет подключения к сети</string>
+    <string name="sErrorIncorrectLoginOrPassword">Введен неверный логин/пароль</string>
+    <string name="sErrorUnknown">Неизвестная ошибка</string>
+
+</resources>

@@ -1,0 +1,25 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "AmicumMobile"
+
+include ':models'
+include ':compose'
+include ':core-ui'
+
+include ':authentification'
+include ':authentification:auth_data'
+include ':authentification:auth_domain'
+include ':authentification:auth_presentation'
+
+include ':report'
+include ':report:report_presentation'
+include ':report:report_domain'
+
+include ':share'
+include ':share:share_data'
+include ':share:share_domain'

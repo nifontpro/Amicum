@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Amicum Mobile</string>
+    <string name="sReport">Отчеты</string>
+    <string name="sMaterials">Материалы</string>
+    <string name="sDevelopedByAmicum">Разработано Amicum</string>
+    <string name="sComment">Комментарий</string>
+    <string name="sFillReport">ЗАПОЛНИТЬ ОТЧЁТ</string>
+    <string name="sExit">ВЫХОД</string>
+    <string name="sEnter">ВОЙТИ</string>
+    <string name="sEnterInSystem">ВХОД В СИСТЕМУ</string>
+    <string name="sWelcome">Добро пожаловать!</string>
+    <string name="sLoginToContinue">Авторизуйтесь, чтобы продолжить</string>
+    <string name="sLogin">Логин</string>
+    <string name="sPassword">Пароль</string>
+    <string name="sAuthorizationOnActiveDirectory">Авторизация по ActiveDirectory</string>
+    <string name="sErrorNotInternet">Нет подключения к сети</string>
+    <string name="sErrorIncorrectLoginOrPassword">Введен неверный логин/пароль</string>
+    <string name="sErrorUnknown">Неизвестная ошибка</string>
+    <string name="sDate">Дата</string>
+    <string name="sShift">Смена</string>
+    <string name="sPercentFill">Процент заполнения</string>
+    <string name="sCountWorkers">Количество работников</string>
+    <string name="sMaterialsAccount">УЧЕТ МАТЕРИАЛОВ</string>
+    <string name="sDowntimeAccount">УЧЕТ ПРОСТОЕВ</string>
+    <string name="sLogout">Выйти</string>
+
+    <!--    Боковое меню:-->
+    <string name="sOnHomeMenu">На главную</string>
+    <string name="sFillReportMenu">Заполнить отчет</string>
+    <string name="sMaterialsMenu">Учет материалов</string>
+    <string name="sDowntimeMenu">Учет простоев</string>
+    <string name="sNotificationsMenu">Уведомления</string>
+    <string name="sSetingsMenu">Настройки</string>
+
+</resources>
