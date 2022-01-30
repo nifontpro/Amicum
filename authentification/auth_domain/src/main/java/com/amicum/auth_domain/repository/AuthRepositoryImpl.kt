@@ -1,4 +1,4 @@
-package com.amicum.auth_data.repository
+package com.amicum.auth_domain.repository
 
 import android.content.Context
 import android.graphics.BitmapFactory
